@@ -45,6 +45,11 @@ Most of the interactive features on this app are built using [ipywidgets](https:
 
 ## Starting the notebook
 
+### Download the Notebook
+
+[Click here](https://raw.githubusercontent.com/lofi-code/Utah-DWR-earthengine-imagery-analyzer/main/Wildlife_Crossing_Sentinel_Analyzer.ipynb) or navigate to the notebook in github and click "raw". Then press command/control S to save the notebook. Make sure to remove ".txt" from the file, so that the file type is ".ipynb". Save it to your preffered folder. 
+
+### Start the Jupyter Notebooks Application
 Open command line/terminal and activate your python environment:
 
     conda activate gee
@@ -57,16 +62,11 @@ Jupyter Notebooks will open in your browser. Open the Nbextesions tab and make s
 
 ![image](https://user-images.githubusercontent.com/82716404/115119378-4f8bb000-9f65-11eb-91da-56ed1250639e.jpeg)
 
-### Download the Notebook
-
-[Click here](https://raw.githubusercontent.com/lofi-code/Utah-DWR-earthengine-imagery-analyzer/main/Wildlife_Crossing_Sentinel_Analyzer.ipynb) or navigate to the notebook in github and click "raw". Then press command/control S to save the notebook. Make sure to remove ".txt" from the file, so that the file type is ".ipynb". Save it to your preffered folder. 
-
-
 ### Initialize and Authenticate Earthengine:
-Return to Jupyter Notebook in your browser. Navigate to the notebook you just downloaded using the files tab. Click to open it. Run the first cell to authenticate and initialize eathengine. once initialized, comment out "ee.authenticate()". The authentication token will be saved for future sessions. 
+In the Jupyter Notebook application, navigate to the notebook you just downloaded using the files tab. Click to open it. Run the first cell to authenticate and initialize eathengine (shift+enter will run the selected cell). Once initialized, comment out "ee.authenticate()". The authentication token will be saved for future sessions. 
 
 ### Run notebook interactively:
-To run the notebook in interactive mode, first click on the eye symbol to hide the code. Then click Kernel> Restart & Run All, and wait for the code to run. When using the app, keep an eye on the circle in the upper right corner next to "Python 3". If this is solid, python is running. If it is a circle outline, then the code has excecuted. See the highlighted sections in the screenshot below: 
+To run the notebook in interactive mode, first click on the eye symbol to hide the code. Then click "Kernel> Restart & Run All", and wait for the code to run. When using the app, keep an eye on the circle in the upper right corner next to "Python 3". If this is solid, python is running. If it is a circle outline, then the code has excecuted. See the highlighted sections in the screenshot below: 
 
 ![Screen Shot 2021-04-17 at 10 29 18 AM](https://user-images.githubusercontent.com/82716404/115119975-43edb880-9f68-11eb-9495-9fad1326ab07.jpg)
 
