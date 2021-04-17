@@ -28,7 +28,7 @@ Install [Jypyter Notebook Extensions](https://github.com/ipython-contrib/jupyter
 
     mamba install jupyter_contrib_nbextensions -c conda-forge
 
-## List of Packages and links to installation
+## List of Packages and Links to Installation
 
 Most of the interactive features on this app are built using [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) and [geemap](https://github.com/giswqs/geemap). Huge thanks to Qiusheng Wu of the geemap package for the helpful tutorials and package. All of the packages needed and links to installation are included below. 
 
