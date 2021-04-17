@@ -57,8 +57,13 @@ Jupyter Notebooks will open in your browser. Open the Nbextesions tab and make s
 
 ![image](https://user-images.githubusercontent.com/82716404/115119378-4f8bb000-9f65-11eb-91da-56ed1250639e.jpeg)
 
+### Download the Notebook
+
+[Click here](https://raw.githubusercontent.com/lofi-code/Utah-DWR-earthengine-imagery-analyzer/main/Wildlife_Crossing_Sentinel_Analyzer.ipynb) or navigate to the notebook in github and click "raw". Then press command/control S to save the notebook. Make sure to remove ".txt" from the file, so that the file type is ".ipynb". Save it to your preffered folder. 
+
+
 ### Initialize and authenticate Earthengine:
-Download the notebook and navigate to it under the files tab. Click to open it. Run the first cell to authenticate and initialize eathengine. once initialized, comment out "ee.authenticate()". The authentication token will be saed for future sessions. 
+Navigate to the notebook you downloaded under the files tab. Click to open it. Run the first cell to authenticate and initialize eathengine. once initialized, comment out "ee.authenticate()". The authentication token will be saved for future sessions. 
 
 ### Run notebook interactively:
 To run the notebook in interactive mode, first click on the eye symbol to hide the code. Then click Kernel> Restart & Run All, and wait for the code to run. When using the app, keep an eye on the circle in the upper right corner next to "Python 3". If this is solid, python is running. If it is a circle outline, then the code has excecuted. See the highlighted sections in the screenshot below: 
