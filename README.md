@@ -47,7 +47,7 @@ Most of the interactive features on this app are built using [ipywidgets](https:
 
 ### Download the Notebook
 
-[Click here](https://raw.githubusercontent.com/lofi-code/Utah-DWR-earthengine-imagery-analyzer/main/Wildlife_Crossing_Sentinel_Analyzer.ipynb) or navigate to the notebook in github and click "raw". Then press command/control S to save the notebook. Make sure to remove ".txt" from the file, so that the file type is ".ipynb". Save it to your preffered folder. 
+[Click here](https://raw.githubusercontent.com/lofi-code/Utah-DWR-earthengine-imagery-analyzer/main/Wildlife_Crossing_Sentinel_Analyzer.ipynb) or navigate to "Utah-DWR-earthengine-imagery-analyzer" in this github repository and click "raw". Then press command/control S to save the notebook. Make sure to remove ".txt" from the file, so that the file type is ".ipynb". Save it to your preferred folder. 
 
 ### Start the Jupyter Notebooks Application
 Open command line/terminal and activate your python environment:
