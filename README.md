@@ -27,7 +27,7 @@ Install [jupyterlab](https://jupyter.org/install):
 
     conda install -c conda-forge jupyterlab
  
-Install [Jypyter Notebook Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) to enable hiding the code, as well as other useful features:
+Install [Jypyter Notebook Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) to enable hiding the code, as well as other useful features ([mamba](https://github.com/mamba-org/mamba) may need to be installed):
 
     mamba install jupyter_contrib_nbextensions -c conda-forge
 
