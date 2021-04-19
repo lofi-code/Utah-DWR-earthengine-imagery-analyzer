@@ -75,6 +75,27 @@ To run the notebook in interactive mode, first click on the eye symbol to hide t
 
 The app should be ready to use. 
 
+## Future Developments:
+As this is quite an interesting project and useful tool, I could see myself adding more functionality and features in the future. Some examples would be:
+
+* Hosting the site as an HTML web site
+* More vegetation indicies
+* Snowcover percentage
+* Atmospheric correction for sentinel imagery to allow the app to go further back in time
+* Harmonizing sentinel and LANDSAT to even further back in time
+
+## References
+
+1) Jdbcode. (2021). Sentinel-2 cloud masking with S2CLOUDLESS | Google Earth Engine. Retrieved April 17, 2021, from https://developers.google.com/earth-engine/tutorials/community/sentinel-2-s2cloudless
+2) Jdbcode. (2021). Time series visualization with altair | google earth engine. Retrieved April 17, 2021, from https://developers.google.com/earth-engine/tutorials/community/time-series-visualization-with-altair
+3) Wu, Q., (2020). geemap: A Python package for interactive mapping with Google Earth Engine. The Journal of Open Source Software, 5(51), 2305. https://doi.org/10.21105/joss.02305
+4) Cong Wang, Jin Chen, Jin Wu, Yanhong Tang, Peijun Shi, T. Andrew Black, Kai Zhu, A snow-free vegetation index for improved monitoring of vegetation spring green-up date in deciduous ecosystems, Remote Sensing of Environment, Volume 196, 2017, Pages 1-12, ISSN 0034-4257, https://doi.org/10.1016/j.rse.2017.04.031. (https://www.sciencedirect.com/science/article/pii/S0034425717301906)
+5) VanderPlas, J., Granger, B., Heer, J., Moritz, D., Wongsuphasawat, K., Satyanarayan, A., … Sievert, S. (2018). Altair: Interactive statistical visualizations for python. Journal of Open Source Software, 3(32), 1057.
+6) McKinney, W., & others. (2010). Data structures for statistical computing in python. In Proceedings of the 9th Python in Science Conference (Vol. 445, pp. 51–56).
+7) Jordahl, K. (2014). GeoPandas: Python tools for geographic data. URL: Https://Github. Com/Geopandas/Geopandas.
+8) Kluyver, T., Ragan-Kelley, B., Fernando P'erez, Granger, B., Bussonnier, M., Frederic, J., … Willing, C. (2016). Jupyter Notebooks – a publishing format for reproducible computational workflows. In F. Loizides & B. Schmidt (Eds.), Positioning and Power in Academic Publishing: Players, Agents and Agendas (pp. 87–90).
+
+
 
 
 
