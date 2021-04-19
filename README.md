@@ -82,7 +82,7 @@ As this is quite an interesting project and useful tool, I could see myself addi
 * More vegetation indicies
 * Snowcover percentage
 * Atmospheric correction for sentinel imagery to allow the app to go further back in time
-* Harmonizing sentinel and LANDSAT to even further back in time
+* Harmonizing sentinel and LANDSAT to go even further back in time
 
 ## References
 
