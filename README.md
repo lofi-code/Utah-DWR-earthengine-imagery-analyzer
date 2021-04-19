@@ -83,6 +83,7 @@ As this is quite an interesting project and useful tool, I could see myself addi
 * Snowcover percentage
 * Atmospheric correction for sentinel imagery to allow the app to go further back in time
 * Harmonizing sentinel and LANDSAT to go even further back in time
+* Using jupyter dashboards to clean up the outputs
 
 ## References
 
