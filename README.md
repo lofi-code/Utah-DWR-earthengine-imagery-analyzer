@@ -2,7 +2,10 @@
 Contains an interactive notebook to examine sentinel imagery anywhere in the world, designed to be used by the Utah DWR to examine phenology patterns.  
 
 ## Summary
-This interactive notebook bundles together two main features. The first of these is an interactive plot generator for vegetation index timeseries. For any reasonably sized bounding box, the code will grab sentinel 2 imagery between two input dates, mask out clouds and snow, and reduce the average vegetation index values to an interactive altair plot. The second feature is an interactive imagery comparison map that allows users to compare sentinel imagery using a slider. 
+This interactive notebook bundles together two main features. The first of these is an interactive plot generator for vegetation index timeseries. For any reasonably sized bounding box, the code will grab sentinel 2 imagery between two input dates, mask out clouds and snow, and reduce the average vegetation index values to an interactive altair plot. The second feature is an interactive imagery comparison map that allows users to compare sentinel imagery using a slider.
+
+## Python Version
+This app was built and tested using Python 3.8.0.
 
 ## Setting up Conda and Jupyter
 
